@@ -1,0 +1,22 @@
+[general]
+name=QFake
+qgisMinimumVersion=3.00
+email=jmillsapengineer@gmail.com
+author=John Millsap
+description=Generate fake geospatial data
+about=Create fake vector or raster data with fine-grained control over location, density, fields, and much more.
+version=0.1
+repository=https://github.com/millsapjohn/qfake
+
+category=Raster, Vector
+changelog=changelog
+experimental=True
+deprecated=False
+homepage=https://github.com/millsapjohn/qfake
+tracker=https://github.com/millsapjohn/qfake/issues
+qgisMaximumVersion=3.99
+icon=icon
+server=False
+hasProcessingProvider=True
+
+
